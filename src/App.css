@@ -1,0 +1,21 @@
+.loading{
+    font-size: 50px;
+    text-align: center;
+    margin: 10px auto; 
+}
+.recipe-title {
+  font-size: 50px;
+  text-align: center;
+  margin: 10px auto;
+}
+.recipe-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+.nutrition-section{
+    width:20%;
+    height: auto;
+    margin:0 auto;
+}
